@@ -12,15 +12,15 @@
       },
       "30": {
         "price": "24.47",
-        "url": "https://infinitycheats.gg/group/wave?p=7-day-license/affiliate/keyempire"
+        "url": "https://infinitycheats.gg/group/wave?p=30-day-license/affiliate/keyempire"
       },
       "90": {
         "price": "44.47",
-        "url": "https://infinitycheats.gg/group/wave?p=7-day-license/affiliate/keyempire"
+        "url": "https://infinitycheats.gg/group/wave?p=90-day-license/affiliate/keyempire"
       },
       "365": {
         "price": "144.47",
-        "url": "https://infinitycheats.gg/group/wave?p=7-day-license/affiliate/keyempire"
+        "url": "https://infinitycheats.gg/group/wave?p=1-year-license/affiliate/keyempire"
       },
       "payments": [
         "paypal",
@@ -81,7 +81,7 @@
       ],
       "lifetime": {
         "price": "9.97",
-        "url": "https://infinitycheats.gg/product/assembly/affiliate/keyempire"
+        "url": "https://infinitycheats.gg/affiliate/keyempire"
       }
     },
     "valex": {
@@ -107,7 +107,7 @@
       ],
       "lifetime": {
         "price": "10.97",
-        "url": "https://infinitycheats.gg/product/matcha/affiliate/keyempire"
+        "url": "https://infinitycheats.gg/affiliate/keyempire"
       }
     },
     "potassium": {
@@ -118,7 +118,7 @@
       ],
       "lifetime": {
         "price": "23.97",
-        "url": "https://infinitycheats.gg/product/potassium/affiliate/keyempire"
+        "url": "https://infinitycheats.gg/affiliate/keyempire"
       }
     },
     "codex": {
@@ -148,7 +148,7 @@
       ],
       "lifetime": {
         "price": "6.99",
-        "url": "https://infinitycheats.gg/product/yerba/affiliate/keyempire"
+        "url": "https://infinitycheats.gg/affiliate/keyempire"
       }
     }
   }
