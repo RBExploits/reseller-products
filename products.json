@@ -111,6 +111,17 @@
         "url": "https://infinitycheats.gg/affiliate/>affiliate<"
       }
     },
+    "Serotonin": {
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ],
+      "lifetime": {
+        "price": "9.47",
+        "url": "https://infinitycheats.gg/affiliate/>affiliate<"
+      }
+    },
     "potassium": {
       "payments": [
         "paypal",
