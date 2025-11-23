@@ -85,6 +85,21 @@
         "url": "https://infinitycheats.gg/affiliate/>affiliate<"
       }
     },
+    "bunni": {
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ],
+      "30": {
+        "price": "9.99",
+        "url": "https://infinitycheats.gg/affiliate/>affiliate<"
+      },
+      "lifetime": {
+        "price": "34.99",
+        "url": "https://infinitycheats.gg/affiliate/>affiliate<"
+      }
+    },
     "valex": {
       "1": {
         "price": "2.97",
