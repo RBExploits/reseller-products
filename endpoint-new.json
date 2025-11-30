@@ -1,0 +1,171 @@
+{
+  "InfinityCheats": {
+    "pfp": "https://cdn.discordapp.com/avatars/79972319430193152/3ea1e2b53c6487950aa3f0600bbfd88d.webp?size=80",
+    "referral": "20",
+    "wave": {
+      "1": {
+        "price": "2.97",
+        "url": "https://infinitycheats.gg/product?id=3ec68e8d-e0a7-4929-9b81-8638b153198e&ref=keyempire"
+      },
+      "7": {
+        "price": "7.47",
+        "url": "https://infinitycheats.gg/product?id=3ec68e8d-e0a7-4929-9b81-8638b153198e&ref=keyempire"
+      },
+      "30": {
+        "price": "24.47",
+        "url": "https://infinitycheats.gg/product?id=3ec68e8d-e0a7-4929-9b81-8638b153198e&ref=keyempire"
+      },
+      "90": {
+        "price": "44.47",
+        "url": "https://infinitycheats.gg/product?id=3ec68e8d-e0a7-4929-9b81-8638b153198e&ref=keyempire"
+      },
+      "365": {
+        "price": "144.47",
+        "url": "https://infinitycheats.gg/product?id=3ec68e8d-e0a7-4929-9b81-8638b153198e&ref=keyempire"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ]
+    },
+    "ronin": {
+      "7": {
+        "price": "2.99",
+        "url": "https://infinitycheats.gg/product?id=4baf60f4-1ca5-4a75-8004-af239b2e2a63&ref=keyempire"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ],
+      "lifetime": {
+        "price": "9.98",
+        "url": "https://infinitycheats.gg/product?id=4baf60f4-1ca5-4a75-8004-af239b2e2a63&ref=keyempire"
+      }
+    },
+    "seliware": {
+      "7": {
+        "price": "4.00",
+        "url": "https://infinitycheats.gg/product?id=767b5eac-e744-4b2e-8390-92299c85021f&ref=keyempire"
+      },
+      "30": {
+        "price": "9.99",
+        "url": "https://infinitycheats.gg/product?id=767b5eac-e744-4b2e-8390-92299c85021f&ref=keyempire"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ]
+    },
+    "bunni": {
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ],
+      "30": {
+        "price": "9.99",
+        "url": "https://infinitycheats.gg/product?id=6a8ae91f-4c73-45cc-bc65-5adb018ded3c&ref=keyempire"
+      },
+      "lifetime": {
+        "price": "34.99",
+        "url": "https://infinitycheats.gg/product?id=6a8ae91f-4c73-45cc-bc65-5adb018ded3c&ref=keyempire"
+      }
+    },
+    "Charm.wtf": {
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ],
+      "30": {
+        "price": "4.97",
+        "url": "https://infinitycheats.gg/product?id=charm.wtf&ref=keyempire"
+      },
+      "lifetime": {
+        "price": "8.97",
+        "url": "https://infinitycheats.gg/product?id=charm.wtf&ref=keyempire"
+      }
+    },
+    "valex": {
+      "1": {
+        "price": "2.97",
+        "url": "https://infinitycheats.gg/product?id=5c09b67c-fa49-40d7-8604-c11be959a47c"
+      },
+      "7": {
+        "price": "7.47",
+        "url": "https://infinitycheats.gg/product?id=5c09b67c-fa49-40d7-8604-c11be959a47c"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ]
+    },
+    "matcha": {
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ],
+      "lifetime": {
+        "price": "10.97",
+        "url": "https://infinitycheats.gg/product?id=0693595d-53a9-41bd-89ff-ba1cf253eeaf&ref=keyempire"
+      }
+    },
+    "Serotonin": {
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ],
+      "30": {
+        "price": "9.99",
+        "url": "https://infinitycheats.gg/product?id=15459aa6-da24-4066-bb69-118a0e02c98f"
+      }
+    },
+    "potassium": {
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ],
+      "lifetime": {
+        "price": "24.99",
+        "url": "https://infinitycheats.gg/product?id=potassium&ref=keyempire"
+      }
+    },
+    "codex": {
+      "30": {
+        "price": "4.97",
+        "url": "https://infinitycheats.gg/product?id=dcc24e57-aa3c-4b31-9459-3d8f027bc683&ref=keyempire"
+      },
+      "90": {
+        "price": "9.97",
+        "url": "https://infinitycheats.gg/product?id=dcc24e57-aa3c-4b31-9459-3d8f027bc683&ref=keyempire"
+      },
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ],
+      "lifetime": {
+        "price": "19.97",
+        "url": "https://infinitycheats.gg/product?id=dcc24e57-aa3c-4b31-9459-3d8f027bc683&ref=keyempire"
+      }
+    },
+    "yerba": {
+      "payments": [
+        "paypal",
+        "stripe",
+        "crypto"
+      ],
+      "lifetime": {
+        "price": "6.99",
+        "url": "https://infinitycheats.gg/product?id=950910d4-b5f2-4a1e-8eaf-41ab9180c56c&ref=keyempire"
+      }
+    }
+  }
+}
