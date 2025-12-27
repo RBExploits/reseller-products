@@ -4,25 +4,22 @@
     "referral": "21",
     "wave": {
       "1": {
-        "price": "2.97",
+        "price": "2.49",
         "url": "https://infinitycheats.gg/product?id=3ec68e8d-e0a7-4929-9b81-8638b153198e&ref=keyempire"
       },
       "7": {
-        "price": "7.47",
+        "price": "5.99",
         "url": "https://infinitycheats.gg/product?id=3ec68e8d-e0a7-4929-9b81-8638b153198e&ref=keyempire"
       },
       "30": {
-        "price": "24.47",
+        "price": "18.99",
         "url": "https://infinitycheats.gg/product?id=3ec68e8d-e0a7-4929-9b81-8638b153198e&ref=keyempire"
       },
       "90": {
-        "price": "44.47",
+        "price": "39.99",
         "url": "https://infinitycheats.gg/product?id=3ec68e8d-e0a7-4929-9b81-8638b153198e&ref=keyempire"
       },
-      "365": {
-        "price": "144.47",
-        "url": "https://infinitycheats.gg/product?id=3ec68e8d-e0a7-4929-9b81-8638b153198e&ref=keyempire"
-      },
+      ,
       "payments": [
         "paypal",
         "stripe",
@@ -111,7 +108,7 @@
         "crypto"
       ],
       "lifetime": {
-        "price": "10.97",
+        "price": "8.97",
         "url": "https://infinitycheats.gg/product?id=0693595d-53a9-41bd-89ff-ba1cf253eeaf&ref=keyempire"
       }
     },
@@ -122,7 +119,7 @@
         "crypto"
       ],
       "30": {
-        "price": "9.99",
+        "price": "8.47",
         "url": "https://infinitycheats.gg/product?id=15459aa6-da24-4066-bb69-118a0e02c98f&ref=keyempire"
       }
     },
